@@ -1,0 +1,10 @@
+commons-jelly:commons-jelly-tags-jsl:1.0:jar
+commons-jelly:commons-jelly-tags-log:1.0:jar
+- velocity-dvsl:velocity-dvsl:0.45:jar
+- commons-jelly:commons-jelly-tags-fmt:1.0:jar
+- org.apache.maven.scm:maven-scm-api:1.0-beta-2:jar
+- org.apache.maven.scm:maven-scm-provider-cvs:1.0-beta-2:jar
+- org.apache.maven.scm:maven-scm-provider-svn:1.0-beta-2:jar
+- org.apache.maven.scm:maven-scm-provider-perforce:1.0-beta-2:jar
+- org.apache.maven.scm:maven-scm-provider-clearcase:1.0-beta-2:jar
+- org.apache.maven.scm:maven-scm-provider-starteam:1.0-beta-2:jar
